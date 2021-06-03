@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wise and faithful steward. Or, A narration of the exemplary death of Mr. Beniamin Rhodes steward to the right honourable Thomas Earl of Elgin, &amp;c. Briefly touch'd in a funeral sermon, and since enlarged. Together with some remarkable passages concerning Mrs Anne Rhodes his wife, who dying few houres after him, was buried together in the same grave with him in Malden Church in Bedfordshire, Aug. 4. 1657.</title>
+            <author>Samways, Peter, 1615-1693.</author>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29289</idno><idno type="EEBO-CITATION">99831339</idno>
+  <idno type="VID">207275</idno>
+  <idno type="EEBO-PROQUEST">2240941958</idno>
+  
+            <idno type="STC">Wing S546A</idno>
+            <idno type="PROQUEST">99831339</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831339e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207275)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2042:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wise and faithful steward. Or, A narration of the exemplary death of Mr. Beniamin Rhodes steward to the right honourable Thomas Earl of Elgin, &amp;c. Briefly touch'd in a funeral sermon, and since enlarged. Together with some remarkable passages concerning Mrs Anne Rhodes his wife, who dying few houres after him, was buried together in the same grave with him in Malden Church in Bedfordshire, Aug. 4. 1657.</title>
+                  <author>Samways, Peter, 1615-1693.</author>
+               </titleStmt>
+               <extent>[14], 88 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by VVilliam Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on pp. 1-2 reads: A brief narration of the sickess and death of Master Benjamin Rhodes, and his wife Mistresse Anne Rhodes; ..</note>
+                  <note>Caption title on p. 70 reads: To all that are related to that noble family in whose service our deceased friends lived and dyed.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rhodes, Benjamin, d. 1657 --  Early works to 1800.</term>
+               <term type="personal_name">Rhodes, Anne, d. 1657 --  Early works to 1800.</term>
+               <term type="topical_term">Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207275:1"/>
+            <p>
+               <hi>The Wise and Faithful Steward.</hi> OR, A NARRATION Of the Exemplary Death of Mr. BENIAMIN RHODES, Steward to the Right Honourable THOMAS Earl of <hi>Elgin,</hi> &amp;c.</p>
+            <p>
+               <hi>BRIEFLY</hi> Touch'd in a Funeral Sermon, and since enlarged.</p>
+            <p>
+               <hi>Together</hi> With some Remarkable Passages concerning M<seg rend="sup">rs</seg> ANNE RHODES his wife, who dying few houres after him, was buried together in the same grave with him in <hi>Malden</hi> Church in Bedfordshire, <hi>Aug.</hi> 4. 1657.</p>
+            <q>Blessed are the dead which dye in the Lord, from henceforth yea saith the Spirit, that they may rest from their labours, and their works do follow them, <bibl>
+                  <hi>Rev. 14.13.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>VVilliam Godbid.</hi> 1657.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207275:2"/>
+            <pb facs="tcp:207275:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:207275:3"/>
+            <pb facs="tcp:207275:3"/>
+            <head>To the Right HONOURABLE THOMAS, the Earl of <hi>Elgin,</hi> and Baron of WHORLTON:</head>
+            <head type="sub">Grace and Peace from the Foun<g ref="char:EOLhyphen"/>tain of both, the eternal and ever blessed God, through his onely begotten Son, the Lord Jesus Christ.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleased God lately to make your Fa<g ref="char:EOLhyphen"/>mily an house of mourning, first by the
+<pb facs="tcp:207275:4"/>death of your truly No<g ref="char:EOLhyphen"/>ble and Religious Con<g ref="char:EOLhyphen"/>sort, and since by the death of two of your principal servants. I can say nothing to your <hi>Lord<g ref="char:EOLhyphen"/>ship</hi> touching that excel<g ref="char:EOLhyphen"/>lent person your Honou<g ref="char:EOLhyphen"/>rable Lady, having not the happiness to know her otherwise, than by the re<g ref="char:EOLhyphen"/>port of others; but sure that testimony your <hi>Lord<g ref="char:EOLhyphen"/>ship</hi> hath given her in that <hi>stately</hi> and <hi>magnificent Mo<g ref="char:EOLhyphen"/>nument</hi> erected to her me<g ref="char:EOLhyphen"/>mory,
+<pb facs="tcp:207275:4"/>as it will represent her a standing pattern to all that desire to have <hi>pie<g ref="char:EOLhyphen"/>ty</hi> and <hi>virtue</hi> to be the <hi>supporters</hi> of their honour (without which the great<g ref="char:EOLhyphen"/>est Titles of Dignities are but empty shells without a kernel;) so will it also proclaim to the world, and as often as you shall think of the <hi>Elogie</hi> you give her, recall to your own mind the great affli<g ref="char:EOLhyphen"/>ction you suffer in being bereft of her sweet society
+<pb facs="tcp:207275:5"/>and that influence which her excellent <hi>spirit</hi> had in ordering and guiding the concernments of your <hi>Family.</hi>
+            </p>
+            <p>God hath been plea<g ref="char:EOLhyphen"/>sed to call you to another <hi>Trial,</hi> in the late decease of an <hi>Husband</hi> and a <hi>Wife,</hi> that moved as well in a yoke of your Ho<g ref="char:EOLhyphen"/>nours service, as of <hi>wed<g ref="char:EOLhyphen"/>lock</hi> one with another. Your Lordship best knows your loss, because you had so long experi<g ref="char:EOLhyphen"/>ence
+<pb facs="tcp:207275:5"/>of their service; I believe few persons since the death of that good <hi>E<g ref="char:EOLhyphen"/>liezer, Abrahams</hi> Stew<g ref="char:EOLhyphen"/>ard, could have received from their Masters such a Testimony as your Lordship gave him upon his death-bed.</p>
+            <p>But I refer their <hi>Lives</hi> to the <hi>Consciences</hi> of those to whom they were best known. My chief business now is to ga<g ref="char:EOLhyphen"/>ther up some of their expressions, when they
+<pb facs="tcp:207275:6"/>were about to surrender up their souls to God. Surely <hi>dying peoples</hi> be<g ref="char:EOLhyphen"/>haviour is very observa<g ref="char:EOLhyphen"/>ble, especially when they <hi>dye in the Lord;</hi> For from their expiring <hi>breath</hi> some <hi>quickning force</hi> may be conveyed to the <hi>stan<g ref="char:EOLhyphen"/>ders by.</hi> And therefore the most <hi>understanding</hi> person that ever was, saith,
+<note place="margin">Eccles. 7.2, 4.</note>
+               <hi>That the heart of the wise is in the house of mourning. That is the end of all men; and the
+<pb facs="tcp:207275:6"/>living will lay it to his heart.</hi>
+            </p>
+            <p>Your whole <hi>House</hi> rang with the <hi>noise</hi> of the <hi>sweet speeches</hi> that soun<g ref="char:EOLhyphen"/>ded from the mouth of our <hi>devout Friend</hi> decea<g ref="char:EOLhyphen"/>sed. It is pity that what once was so de<g ref="char:EOLhyphen"/>lightful in our <hi>ears,</hi> should ever slip out of our <hi>me<g ref="char:EOLhyphen"/>mories.</hi> It may possibly beget an holy emulation in others that knew him, to follow his good exam<g ref="char:EOLhyphen"/>ple, that they may dye
+<pb facs="tcp:207275:7"/>with the like comfort.</p>
+            <p>And though his wife dyed after another man<g ref="char:EOLhyphen"/>ner, not so strong in the assurance of Gods favor, for the <hi>first part</hi> of her sicknesse, as he was; yet, I hope, he that putteth his servants tears into his <hi>bottle,</hi> did not let <hi>hers</hi> run <hi>waste,</hi> and now hath <hi>wiped them</hi> from <hi>her face for ever.</hi>
+            </p>
+            <p>The most wise God onely knows what is the best portion for all his
+<pb facs="tcp:207275:7"/>
+               <hi>children,</hi> both of <hi>Humi<g ref="char:EOLhyphen"/>liation for sin,</hi> and <hi>Assu<g ref="char:EOLhyphen"/>rance of his favour.</hi>
+            </p>
+            <p>If <hi>Canaan</hi> be our <hi>Coun<g ref="char:EOLhyphen"/>trey,</hi> it is no great mat<g ref="char:EOLhyphen"/>ter how we get <hi>thither,</hi> as long as we perish not in the <hi>Wildernesse;</hi> But with <hi>Caleb</hi> and <hi>Joshua,</hi> arrive at last at the <hi>Land</hi> of <hi>Promise,</hi> what though we are exercised some<g ref="char:EOLhyphen"/>times with one want, sometimes with another? These trials are not for the <hi>ruine</hi> of our <hi>persons,</hi>
+               <pb facs="tcp:207275:8"/>but the <hi>exercise</hi> of our <hi>faith.</hi>
+            </p>
+            <p>Let us onely learn to surrender up our selves wholly to the will of <hi>God,</hi> and so to dis<g ref="char:EOLhyphen"/>pose of our <hi>hearts</hi> and <hi>wayes,</hi> that <hi>death</hi> may not surprise us in our <hi>sins.</hi> Let not the <hi>Devil</hi> and our own <hi>hearts</hi> blind us so far, that we should live in any <hi>known</hi> sin a<g ref="char:EOLhyphen"/>gainst Conscience; Nei<g ref="char:EOLhyphen"/>ther let us be so unskil<g ref="char:EOLhyphen"/>full in the holy <hi>Book</hi> of
+<pb facs="tcp:207275:8"/>
+               <hi>God,</hi> as not to be able <hi>nimbly</hi> to judge of our <hi>own actions,</hi> whether they be sins or no. The <hi>Devil</hi> is a subtil <hi>Adver<g ref="char:EOLhyphen"/>sary,</hi> and if we want our <hi>Complete Armour,</hi> and especially the <hi>Sword</hi> of the <hi>Spirit,</hi> he will be too hard for us.</p>
+            <p>Your <hi>Lordship</hi> is very careful to furnish your self plentifully with that <hi>chief Piece</hi> of the <hi>Divine Harness,</hi> both by daily reading of the holy
+<pb facs="tcp:207275:9"/>Word of <hi>God,</hi> and by diligent perusal of such other <hi>Orthodox Writers,</hi> as interpret the same. And therefore I hope your <hi>Lordships</hi> good ex<g ref="char:EOLhyphen"/>ample in this behalf, will provoke all that are rela<g ref="char:EOLhyphen"/>ted to your <hi>Honour,</hi> to walk in the same steps.</p>
+            <p>To this purpose I make bold to recommend the dying <hi>behaviour</hi> of our dear friends to all your <hi>Family</hi> in your <hi>Lordships</hi> name; knowing that <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207275:9"/>
+            <p>A BRIEF NARRATION of the sickness and death of Master <hi>Benjamin Rhodes,</hi> and his wife Mistresse <hi>Anne Rhodes;</hi> the former whereof sickned on the twenty fourth day of <hi>July,</hi> and died on the third of <hi>Aug. 1657.</hi> about e<g ref="char:EOLhyphen"/>leven of the clock in the mor<g ref="char:EOLhyphen"/>ning. The later, diligently at<g ref="char:EOLhyphen"/>tending her Husband, whilest her strength continued, was at last forced to yield to the violence of her own distemper. She sickned on the twenty
+<pb n="2" facs="tcp:207275:10"/>eighth day of <hi>July,</hi> and de<g ref="char:EOLhyphen"/>parted this life on the fourth of <hi>Aug.</hi> a little after mid<g ref="char:EOLhyphen"/>night, about two of the clock. They were both buried in the same grave, at <hi>Malden Church</hi> in <hi>Bedfordshire,</hi> in the North Isle, at the very entrance into the lately ere<g ref="char:EOLhyphen"/>cted Chappel for the Sepul<g ref="char:EOLhyphen"/>chre of the Right Honoura<g ref="char:EOLhyphen"/>ble <hi>Diana</hi> Countess of <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> and <hi>Elgin,</hi> on the fourth of <hi>August, 1657.</hi> at the evening.</p>
+            <pb n="3" facs="tcp:207275:10"/>
+            <p>
+               <seg rend="decorInit">H</seg>Ad I no farther know<g ref="char:EOLhyphen"/>ledge of these two persons, but onely the bare Narration of their Alliance, Affinities, Conjunction in the same yoke of Wedlock together, and service to the same Honourable Lady now with God, and to the same Right Honou<g ref="char:EOLhyphen"/>rable Lord, the Earl of <hi>Elgin,</hi> (now blessed be God yet surviving) of their sickning so neer together, dying so little distance of time one from ano<g ref="char:EOLhyphen"/>ther, burial at the same time, and in the same place, and grave, and neer the same noble Mistresse they both served; it could not choose but much affect me, as I doubt not but that it will many persons that shall hear of it, though they knew neither our brother nor sister here departed. But when I remember my own relation
+<pb n="4" facs="tcp:207275:11"/>to the same Family, our mutual love, commerce, and respects in our daily conversation, our frequent Addres<g ref="char:EOLhyphen"/>ses to the Throne of Grace, the losse that their Noble Master, and his whole Family with him sustains, upon the withdrawing of that influence which they had in the management of the general concernments of all persons related to their Right Ho<g ref="char:EOLhyphen"/>nourable Lord; the calamity of the affliction would quite over-whelm me, and others, I believe, with me, did not the consideration of Gods Providence, and their happinesse step in, and put a check upon the exorbi<g ref="char:EOLhyphen"/>tancy of our passions. But when I reflect upon these two, I find my sor<g ref="char:EOLhyphen"/>row lessening, my tears drying, and the high tempest of my grief abating into a gentle calm.</p>
+            <p>And truly (Beloved) if good old <hi>Eli</hi> supported himself with one of these pillars, I mean the Providence of God, how much more ought we to rest satisfied, and contented with
+<pb n="5" facs="tcp:207275:11"/>both? I mean such a dispensation of Divine Providence, that hath invol<g ref="char:EOLhyphen"/>ved and wrapt up in it so great bene<g ref="char:EOLhyphen"/>fit and advantage to those in whose sicknesse and death it hath been chiefly concerned. Part of that Mes<g ref="char:EOLhyphen"/>sage which <hi>Eli</hi> heard from <hi>Samuel,</hi>
+               <note place="margin">1 Sam. 3.14.</note> was, <hi>I have sworn, that the iniquity of the house of</hi> Eli <hi>shall not be purged with sacrifice, nor offering for ever;</hi> and yet the devout servant of God, conside<g ref="char:EOLhyphen"/>ring whose errand <hi>Samuel</hi> delivered, saith with all patience, and submissi<g ref="char:EOLhyphen"/>on unto the will of God,
+<note place="margin">V. 18.</note>
+               <hi>It is the Lord, let him doe what seemeth him good.</hi> But Gods dealing with these his servants here before us was such, that though his chastisement was sharp, yet it was mixed with love, and sent onely to fit and prepare them for better comforts, than any can be reaped here below; it was dis<g ref="char:EOLhyphen"/>pensed unto them, that they might be <hi>partakers of his holinesse,</hi>
+               <note place="margin">Heb. 12.10.</note> and con<g ref="char:EOLhyphen"/>sequently the better fitted for that everlasting and eternal happinesse
+<pb n="6" facs="tcp:207275:12"/>which they now enjoy.</p>
+            <p>For my part, I blesse the goodness of God, which hath made me parta<g ref="char:EOLhyphen"/>ker of so good patterns, how to leave this wretched and miserable world, and to go to God; though I knew in some measure what was my duty, and might possibly (through Gods assi<g ref="char:EOLhyphen"/>stance) have been able to have in<g ref="char:EOLhyphen"/>structed others, yet to see holy rules practised, and divine propositions ex<g ref="char:EOLhyphen"/>emplified, and such truths as are ge<g ref="char:EOLhyphen"/>nerally, <hi>notional</hi> onely, and swimming in the brain, acted to the <hi>life</hi> in the agonies of <hi>death;</hi> O! this must needs work upon us, if we be not more stupid than the brute beast, &amp; obdurate than the Adamant it self.</p>
+            <p>And truly beloved, I speak to as many as were eye-witnesses of the sharp visitation of these our departed friends, and ear-witnesses of the di<g ref="char:EOLhyphen"/>vine <hi>ejaculations,</hi> and <hi>seraphical</hi> spee<g ref="char:EOLhyphen"/>ches that flowed from their lips; how sweet a meditation is it unto you to remember, how Gods strength ap<g ref="char:EOLhyphen"/>peared
+<pb n="7" facs="tcp:207275:12"/>in their weakness; how fer<g ref="char:EOLhyphen"/>vently with words, and sighs, and hands, &amp; eyes lifted up to Heaven, did they demonstrate that the violent heat of their distempered bodies was like unto that fire,
+<note place="margin">2 Chron. 7.1.</note> that upon the Prayer of <hi>Solomon</hi> descended from Heaven, whereby the bodies and souls of these devout persons were consumed, as whole <hi>burnt-offerings</hi> and <hi>sacrifices</hi> unto that gracious God of theirs unto whom they are gone?</p>
+            <p>Indeed their carriage in the time of their sicknesse, was very unlike, and different one from the other; for whereas he was nothing startled in his assurance of the fruition of Christ, crying out, every moment almost, <hi>I goe to my Christ, I goe to my God,</hi> ever mounted upon the wing of an hum<g ref="char:EOLhyphen"/>ble confidence in Christs merits, not his own: She was grievously assaul<g ref="char:EOLhyphen"/>ted with the terrour of her sins, brought down to the gates of despair almost, so that I had much adoe, by the best cordials that I could admini<g ref="char:EOLhyphen"/>ster
+<pb n="8" facs="tcp:207275:13"/>unto her out of the Gospel of Peace, to sustain her from fainting: and yet I have very good reason to judge, as I shall shew anon, that the Lord did hearken to the voice of her weeping; her deep humiliation, her earnest invocation, her strong crying upon God for his mercy, her earnest request, that her sins might be made known unto her, her justification of God in all his dealings with her, her resolution, if God should further continue her in the land of the living here, to walk more strictly than for<g ref="char:EOLhyphen"/>merly she had done, and to conclude, her full resignation of her self into the hands of God, to doe with her as he pleased, are very strong evi<g ref="char:EOLhyphen"/>dences to me, that God, though <hi>he chastened her sore,</hi>
+               <note place="margin">Ps. 118.18.</note>
+               <hi>yet he gave her not over unto death,</hi> I mean the second death; but made that hot furnace, whereinto he cast her, a refining fire unto her faith,
+<note place="margin">1 Pet. 1.7.</note>
+               <hi>the trial whereof being much more precious than of gold that perisheth, will be found</hi> (I hope) <hi>unto
+<pb n="9" facs="tcp:207275:13"/>praise, and honour, and glory, at the ap<g ref="char:EOLhyphen"/>pearing of Jesus Christ.</hi>
+            </p>
+            <p>My warning hath been but little, and my disposition of body less, since they dyed, to speak any thing meet for their worthy <hi>memory,</hi> or your <hi>ears.</hi> You must pardon me therefore, if I give you but some small reliques of that spiritual <hi>Feast,</hi> wherewith their holy discourses abundantly en<g ref="char:EOLhyphen"/>tertained all us that were present with them.</p>
+            <p>First then of him, that sickned first, and first was translated hence. If we consider him in his youth, we shall find, even then, God dealing graciously with him. At what time he waited upon the Earl of <hi>Oxford,</hi> in the Low-Countries, he told me, that he was <hi>forward</hi> and <hi>active</hi> to shew himself valiant in the <hi>handling of arms,</hi> but being once engaged in a Fight, in the heat of the Skir<g ref="char:EOLhyphen"/>mish he was suddenly struck with the consideration of that execution that his bullets might make, and his Mus<g ref="char:EOLhyphen"/>ket
+<pb n="10" facs="tcp:207275:14"/>was ready to fall out of his hands, when he remembred that he might be the authour of his brothers death, in a cause, wherein he was not so well skilled, as to receive such satisfaction that might void all scruples unto his conscience. Upon that he grew cold (not quitting the virtue of For<g ref="char:EOLhyphen"/>titude, but correcting the errour of its mis-application as he judged) in that service, as reverencing the image of God in man at a higher rate than to think it might be destroyed for a <hi>pecuniary Stipend.</hi> Killing of men is the worst of <hi>Trades,</hi> grow the Ma<g ref="char:EOLhyphen"/>sters of that art never so rich, and great thereby: And therefore not long before his death, he looked up<g ref="char:EOLhyphen"/>on such as have by that employment advanced themselves, as miserable <hi>wretches,</hi> rather to be pitied for their <hi>guilt,</hi> and <hi>misery,</hi> than envyed for their vast temporal advantages. His soul was far from their secret, that in their anger, or for their gain could shed bloud, yet his charity was so
+<pb n="11" facs="tcp:207275:14"/>large, that he could both pray himself for them, and commend them to the devotion of such as stood about him.</p>
+            <p>Betaking himself therefore to a more civil course of life, he waited upon the <hi>Countesse</hi> of <hi>Oxford,</hi> and by that means became servant to that person of Honour in whose Family he dyed.</p>
+            <p>That we may digest our Discourse touching our Brother here departed, into some method: Let us view him standing in a five-fold relation; First, to his Lord, as a <hi>servant.</hi> Se<g ref="char:EOLhyphen"/>condly, to his wife, as an <hi>husband.</hi> Thirdly, to his children, as a <hi>parent.</hi> Fourthly, to his fellow-servants, as a <hi>friend.</hi> Fifthly, to the Church wherein he was bred, as a <hi>dutiful Son.</hi>
+            </p>
+            <p>First, look upon him as a <hi>servant.</hi> I reckon four qualifications requisite to perfect a servant: 1. <hi>Skill</hi> in the employment which he undertakes. 2. <hi>Fidelity,</hi> in not purloining his Ma<g ref="char:EOLhyphen"/>sters goods. 3. <hi>Diligence,</hi> that he
+<pb n="12" facs="tcp:207275:15"/>discharge his trust with his utmost endeavour. 4. <hi>Obsequiousnesse,</hi> that what he doth may be performed with love, and tender regard to the person of his Master, as the Apostle Saint <hi>Paul</hi> admonisheth, <hi>Let as many ser<g ref="char:EOLhyphen"/>vants as are under the yoke,</hi>
+               <note place="margin">1 Tim. 5.1.</note>
+               <hi>count their own Masters</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>worthy of all honour.</hi> All these met and concen<g ref="char:EOLhyphen"/>tred together in this servant.</p>
+            <p>
+               <hi>First,</hi> for his skill in the businesse imposed upon him, it was extraordi<g ref="char:EOLhyphen"/>nary; he understood what was <hi>de<g ref="char:EOLhyphen"/>cent,</hi> and becoming the persons of all sorts of men, and therefore gave them such <hi>reception</hi> in his Noble Ma<g ref="char:EOLhyphen"/>sters Family, as became his <hi>Honour,</hi> and their <hi>Quality.</hi> Nothing expe<g ref="char:EOLhyphen"/>dient was wanting, and yet vain su<g ref="char:EOLhyphen"/>perfluities cut off; for he well knew, that excesse doth not com<g ref="char:EOLhyphen"/>mend an <hi>entertainment,</hi> but dishonour the <hi>entertainer,</hi> and hurt the guest: Colligite fragmenta, <hi>Gather the frag<g ref="char:EOLhyphen"/>ments,</hi> was his command, at whose will the land was ready to present the
+<pb n="13" facs="tcp:207275:15"/>Cattel upon a thousand hills: the sea to expose her <hi>shoals</hi> of Fishes, and the air to send more numerous Fowl then ever encompassed the Camps of the <hi>Israelites,</hi>
+               <note place="margin">Num. 11.20.</note> when they were fea<g ref="char:EOLhyphen"/>sted with Quails, till they came out at their very nostrils. Moreover, he was not unfurnished with other acces<g ref="char:EOLhyphen"/>sory accomplishments, which though not necessary for, yet were great or<g ref="char:EOLhyphen"/>naments to his <hi>place</hi> and <hi>calling.</hi> A competent knowledge he had in the Latine, and French Tongues, and was very well skilled in <hi>Musick,</hi> which he used as holy <hi>David</hi> did <hi>his,</hi> to lift up his heart to his God, and to advance his Meditations to a kind of <hi>ecstatical admiration</hi> of the <hi>wisdome,</hi> and <hi>bounty,</hi> and <hi>goodnesse,</hi> and <hi>mercy</hi> of his <hi>gracious Redeemer.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> In the next place let us consider his <hi>Fidelity,</hi> how uprightly and honestly he managed all affairs that concerned him. He knew well, who layes this injunction upon ser<g ref="char:EOLhyphen"/>vants, that they should not <hi>purloin,
+<pb n="14" facs="tcp:207275:16"/>but shew all good fidelity,</hi>
+               <note place="margin">Tit. 2.10.</note>
+               <hi>that they may adorn the doctrine of God our Saviour in all things.</hi>
+            </p>
+            <p>The Masters goods, as Saint <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> speaks, ought not to go through, but by the servant, <hi>ne aliquid haereat in digitis, lest any thing stick to his fin<g ref="char:EOLhyphen"/>gers which may defile them.</hi> How free his heart, and his hands were from any pollution of this kind, his chear<g ref="char:EOLhyphen"/>full profession a little before he dyed, may sufficiently demonstrate: For he spake openly to my Lord before many that stood by, <hi>that it was not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s design to carve himself an estate out <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Lordships Income.</hi>
+            </p>
+            <p>True indeed, Scripture and Reason <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>equire, that such servants, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pend their strength and time in their Masters service, should have encou<g ref="char:EOLhyphen"/>ragements, besides what will barely serve their <hi>necessities,</hi> in a liberal man<g ref="char:EOLhyphen"/>ner. Saint <hi>Paul</hi> layes this command upon servants, that they <hi>should not serve with eye-service as men-pleasers, but in singlenesse of heart, fearing God;</hi>
+               <pb n="15" facs="tcp:207275:16"/>and yet the same Apostle also ex<g ref="char:EOLhyphen"/>horts Masters to give unto their ser<g ref="char:EOLhyphen"/>vants <hi>not only that which is just,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Col. 4.1.</note> but also <hi>that which is equal,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, somewhat that may be an assistance unto them to live chearfully, when they change their condition: For Masters ought not to take that ad<g ref="char:EOLhyphen"/>vantage of their servants necessities, as to wear them out with no regard to those exigencies which age and infirmity may expose them unto. This was cautioned in the old Law,
+<note place="margin">Lev. 25.46.</note>
+               <hi>over your brethren the children of Israel, ye shall not rule one over another with ri<g ref="char:EOLhyphen"/>gour:</hi> And God more particularly describes the manner, how the ser<g ref="char:EOLhyphen"/>vant that was an Hebrew (which pro<g ref="char:EOLhyphen"/>portion holds amongst us, when Chri<g ref="char:EOLhyphen"/>stians serve Christians) was to be dis<g ref="char:EOLhyphen"/>missed after seven years service;
+<note place="margin">Deut. 15, 13, 14.</note>
+               <hi>When thou sendest him out free from thee, thou shalt not let him goe empty away; thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy wine<g ref="char:EOLhyphen"/>presse, of that wherewith the Lord thy
+<pb n="16" facs="tcp:207275:17"/>God hath blessed thee, thou shalt give unto him.</hi> But if Masters forget their duty, servants must not forget theirs; but remember, that they have a <hi>Master in Heaven,</hi> from whom they shall receive the reward of an inheri<g ref="char:EOLhyphen"/>tance, eternal in the Heavens, let men deal as hardly with them as they please.</p>
+            <p>But in our present case, the <hi>honour</hi> of the Master on the one hand, and the <hi>truth</hi> and <hi>fidelity</hi> of the servant on the other, had made a sufficient pro<g ref="char:EOLhyphen"/>vision against all complaints, either of <hi>hardship</hi> on the one side, or <hi>sini<g ref="char:EOLhyphen"/>ster</hi> and <hi>private ends</hi> on the other: If the servant was <hi>Jacob,</hi> the Master was no <hi>Laban,</hi> to change his wages seven times, except by augmenta<g ref="char:EOLhyphen"/>tion of them; and therefore I look upon his protestation rather as a com<g ref="char:EOLhyphen"/>fortable record of his own integrity, than a purgation of any suspicion from my Lord.</p>
+            <p>
+               <hi>Thirdly,</hi> therefore let us consider his <hi>diligence,</hi> which may well be ad<g ref="char:EOLhyphen"/>ded
+<pb n="17" facs="tcp:207275:17"/>to his fidelity as a part of it; for he that is idle, is a kind of <hi>robber.</hi> Our deceased Friend followed <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> example, who told <hi>Laban</hi> that in the discharge of his service, <hi>the sleep departed from his eyes:</hi>
+               <note place="margin">Gen. 31.40.</note> What he contrived with care, that he exe<g ref="char:EOLhyphen"/>cuted with diligence; walking, and riding from place to place, that he might suffer no damage to arise to my Lords affairs, from the neglect of such persons that were intrusted with them.</p>
+            <p>
+               <hi>Fourthly,</hi> that which crowns all the endeavours of a servant, is <hi>chear<g ref="char:EOLhyphen"/>fulnesse</hi> or <hi>obsequiousnesse;</hi> and there<g ref="char:EOLhyphen"/>fore the Apostle speaking of the duty of servants, would not onely have it to be discharged,
+<note place="margin">Col. 3.23.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with alacrity, as well as simplicity of heart. With what readinesse and willingnesse of mind he attended upon his Lords commands, appeared from the meeknesse of spirit which he always brought into his presence. For the
+<pb n="18" facs="tcp:207275:18"/>testimony of this, I had rather appeal to my Lords own <hi>profession,</hi> than his <hi>modesty.</hi> For my Lord told him, that whereas he had served him about twenty eight years, he never heard a word proceed from him that was obnoxious to an ill construction: At which he presently replied, I must crave your Lordships pardon, for I think I have sometimes offended in this behalf; but I had always a right heart to your Lordship. So much for his first relation.</p>
+            <p>Secondly, consider him as an <hi>Hus<g ref="char:EOLhyphen"/>band,</hi> and there you may find him <hi>loving, tender, able,</hi> and <hi>apt</hi> to teach and instruct his wife, free from <hi>bit<g ref="char:EOLhyphen"/>ternesse</hi> and <hi>passion.</hi> I might be more large in every one of these particu<g ref="char:EOLhyphen"/>lars, but my leisure will not permit me to say all that might be spoken; and such things as are well known of him already may well be spared, see<g ref="char:EOLhyphen"/>ing we have so plentiful an argument of discourse afforded unto us from his <hi>death-bed.</hi> That I may therefore
+<pb n="19" facs="tcp:207275:18"/>bring you thither the sooner;</p>
+            <p>Thirdly, I propound his discreet and grave deportment to his chil<g ref="char:EOLhyphen"/>dren as a <hi>Parent;</hi> he loved them, but not <hi>fondly;</hi> inclining to send one of them shortly into <hi>France,</hi> and having sent both of them (for he had two sons onely surviving) unto <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> one of the famousest Schools of <hi>England,</hi> for their more pious, and liberal education: When they were there, he <hi>shifted</hi> not all his own bur<g ref="char:EOLhyphen"/>den upon their Master, though known to be vigilant, as well for the pious as learned education of such as are intrusted with him, but by fre<g ref="char:EOLhyphen"/>quent Letters instructed the eldest especially; a testimony whereof we reserve to the end of our Discourse.</p>
+            <p>Fourthly, look upon him as a <hi>fel<g ref="char:EOLhyphen"/>low-servant</hi> to others in the Family; and so you shall find him <hi>just, courte<g ref="char:EOLhyphen"/>ous, affable,</hi> and therefore beloved generally of all whilest he lived, and bewailed universally being now dead of all. I can but glean here and
+<pb n="20" facs="tcp:207275:19"/>there an ear in this plentiful Harvest. One Passage I cannot omit, being an earnest request to my Lord the day before his death, for a servant in the Family, that having fallen under my Lords displeasure, had received his <hi>discharge,</hi> and was not long after to quit his employment.</p>
+            <p>When my Lord asked him whe<g ref="char:EOLhyphen"/>ther he had ought to offer to his con<g ref="char:EOLhyphen"/>sideration, he replyed, <hi>Nothing now, but onely that your Lordship would be pleased to take such an one</hi> (naming the person) <hi>into your Lordships favour, and forgive his offence.</hi>
+            </p>
+            <p>A seasonable charity for a dying, though a necessary duty, as opportu<g ref="char:EOLhyphen"/>nity shall require, for a living Chri<g ref="char:EOLhyphen"/>stian, not onely to give pardon unto such as offend our selves, but also to become a Mediator for such as offend others: For the greatest comfort of a dying Saint is the <hi>pardon</hi> of his <hi>sins;</hi> and whosoever hath tasted of the <hi>largenesse</hi> of Gods <hi>bounty,</hi> in re<g ref="char:EOLhyphen"/>mitting his own <hi>talents,</hi> would not
+<pb n="21" facs="tcp:207275:19"/>willingly have any of his brethren charged with <hi>pence,</hi> either by himself, or others.</p>
+            <p>Fifthly, consider him as a <hi>Christi<g ref="char:EOLhyphen"/>an,</hi> and so led as it were out into a more publick concernment. And here you may find him, I say not <hi>commendable,</hi> but <hi>admirable,</hi> both in <hi>life</hi> and <hi>death.</hi>
+            </p>
+            <p>First, for his <hi>life,</hi> he was constant to his Principles, <hi>not a reed shaken with the wind,</hi> sometimes of one opi<g ref="char:EOLhyphen"/>nion, and sometimes of another, but fixed upon the <hi>basis</hi> of the holy Scri<g ref="char:EOLhyphen"/>ptures, as interpreted in the Articles of the Church of <hi>England:</hi> in the <hi>Communion</hi> of which holy Church, as he had received his <hi>Baptisme,</hi> so he professed to lay down his <hi>life,</hi> in<g ref="char:EOLhyphen"/>treating a neighbour that was in his chamber to signifie so much unto his acquaintance at <hi>Ampthill.</hi> And this, Beloved, is a matter of great mo<g ref="char:EOLhyphen"/>ment, to keep the <hi>union</hi> of the <hi>Church</hi> in these times of Division and Schisme.</p>
+            <pb n="22" facs="tcp:207275:20"/>
+            <p> For what is a man without charity? And what charity hath he that vio<g ref="char:EOLhyphen"/>lates unity? that for a small matter, not of <hi>Doctrine</hi> neither, but of <hi>Or<g ref="char:EOLhyphen"/>der</hi> and <hi>Discipline,</hi> brings <hi>disturbance</hi> and <hi>disorder</hi> into the <hi>fold</hi> of Christs sheep.</p>
+            <p>The Church of <hi>England</hi> doth not impose indifferent things, as binding the conscience, with the same obli<g ref="char:EOLhyphen"/>gation, that truths necessary to sal<g ref="char:EOLhyphen"/>vation, and pertaining to the Faith doe; but gives other Churches the liberty that she taketh her self, to vary in matters of that nature, accor<g ref="char:EOLhyphen"/>ding to the exigency of divers sea<g ref="char:EOLhyphen"/>sons; and therefore the sin of those that depart from her <hi>communion</hi> is the greater. This rashnesse our peaceable <hi>Brother</hi> abhorred and de<g ref="char:EOLhyphen"/>tested (and indeed what can excuse it, when it proceeds so far (as in ma<g ref="char:EOLhyphen"/>ny it hath done) as to cast out, as An<g ref="char:EOLhyphen"/>tichristian, the Apostolical Govern<g ref="char:EOLhyphen"/>ment of the Church?) wishing, that it might be taken notice of, I
+<pb n="23" facs="tcp:207275:20"/>doubt not but in charity for the con<g ref="char:EOLhyphen"/>firmation of others. But yet <hi>indif<g ref="char:EOLhyphen"/>ferent</hi> things be always look't upon as such, and therefore though he was far from contention about them, yet his heart mounted most <hi>actively</hi> up to grander matters, that he might al<g ref="char:EOLhyphen"/>ways have a conscience <hi>void of offence toward God, and toward man.</hi> He had surely a perpetual bent in his mind toward Heavenly things; for he hath said to me, that he thought it meet, that if a man should goe into a Church where the holy Sacra<g ref="char:EOLhyphen"/>ment was celebrated, and not know of it before, yet that he should be ready to receive it.</p>
+            <p>He looked indeed upon that Or<g ref="char:EOLhyphen"/>dinance, as worthy high preparation, but withal he judged it expedient that every one should be habitually prepared. And indeed I judge him so to have been, because when he could have the opportunity, he with his wife received every moneth.</p>
+            <pb n="24" facs="tcp:207275:21"/>
+            <p> Surely he was,
+<note place="margin">Ps. 109.4.</note> as the <hi>Psalmist</hi> speaks, a man that gave himself unto Prayer; or as the Hebrew Text reads the place, even <hi>Prayer</hi> it self: yet not in the errour of the <hi>Euchites,</hi> that excluded other duties by mis<g ref="char:EOLhyphen"/>understanding that Text, <hi>Pray con<g ref="char:EOLhyphen"/>tinually;</hi> but by the frequent <hi>addres<g ref="char:EOLhyphen"/>ses</hi> of his soul to the <hi>Throne</hi> of Grace, and the perpetual dis-en<g ref="char:EOLhyphen"/>gagement of his heart from such sins as might indispose him to the discharge of that holy duty.</p>
+            <p>He exhorted therefore such as stood about him to the diligent per<g ref="char:EOLhyphen"/>formance of this devout work, say<g ref="char:EOLhyphen"/>ing, <hi>O pray, pray;</hi> but withal remem<g ref="char:EOLhyphen"/>ber that businesse must not be negle<g ref="char:EOLhyphen"/>cted. And therefore if he should want a better opportunity, he would, he said, say his prayers as he stood behind his Master.</p>
+            <p>How careful he was to be present at the <hi>Domestick Chappel,</hi> and to have others, both attending to, and reverent in the worship of God, the
+<pb n="25" facs="tcp:207275:21"/>whole Family can sufficiently testifie. Amongst whom, in the absence of those to whom the duty did more properly belong, he did often, and (as I have heard) with much gravity and zeal perform that holy exer<g ref="char:EOLhyphen"/>cise.</p>
+            <p>That rule <hi>in dubiis pars tutior, take in doubtful matters the safer side,</hi> he observed in usury, abstaining, though he professed that he could scarce sa<g ref="char:EOLhyphen"/>tisfie the arguments that were brought for the defence of it.</p>
+            <p>But when he perceived that God by his last sicknesse gave him an effe<g ref="char:EOLhyphen"/>ctual call out of this life, his <hi>zeal</hi> and <hi>devotion</hi> were not onely burning in heat, but flaming out into an evident and conspicuous fire, that both <hi>en<g ref="char:EOLhyphen"/>lightened</hi> and <hi>warmed</hi> all that stood about him. The conflict and conte<g ref="char:EOLhyphen"/>station that the four distempered <hi>hu<g ref="char:EOLhyphen"/>mours</hi> made within his body, seemed to be like the four wheels of the fiery chariot of <hi>Elijah,</hi> whereby he moun<g ref="char:EOLhyphen"/>ted with speed unto Heaven.</p>
+            <pb n="26" facs="tcp:207275:22"/>
+            <p> That he might cast away every block out of his way, he settled his estate temporal, by making his <hi>Will:</hi> wherein he forgot not the poor of Saint <hi>Johns</hi>'s, this Parish of <hi>Malden,</hi> and the two other neighbour-Parishes of <hi>Ampthil</hi> and <hi>Houghton,</hi> bequeath<g ref="char:EOLhyphen"/>ing five pound a piece to the poor of the two first Parishes, and two pound ten shillings to each of the other: which was a very good pro<g ref="char:EOLhyphen"/>portion, considering his estate, which was far inferiour to what was thought it had been, and what it might have been had he been intent upon the world: But he professed that he never loved it; He well knew what Saint <hi>John</hi> writeth,
+<note place="margin">1 Ep. 2.15</note>
+               <hi>That if any man love the world, the love of the Father is not him.</hi> When his <hi>Will</hi> was offe<g ref="char:EOLhyphen"/>red to him to be sealed on the Sun<g ref="char:EOLhyphen"/>day, not long after that he had re<g ref="char:EOLhyphen"/>ceived the holy <hi>Sacrament,</hi> a pious scruple entred into his thoughts, of not <hi>sealing</hi> it on that day, which ought not, he thought, to be profa<g ref="char:EOLhyphen"/>ned
+<pb n="27" facs="tcp:207275:22"/>by any secular or worldly action that respected the affairs of our goods or estates. But when I told him that it was a work of charity, and of such a nature as was consistent with the keeping of the Commandment, he willingly yielded, and set to the wri<g ref="char:EOLhyphen"/>ting his <hi>trembling hand.</hi>
+            </p>
+            <p>Next to his goods, he propounded the place of his burial to be in the North Isle of this Church of <hi>Malden,</hi> at the entrance into this new erected Sepulchre for the right Honourable and religious Lady, the Countesse of <hi>Oxford</hi> and <hi>Elgin</hi> his Mistresse, where he said, that both himself and his wife if she dyed (presaging her sick<g ref="char:EOLhyphen"/>nesse also to be mortal) might con<g ref="char:EOLhyphen"/>veniently be laid together, that such as should come to view her Monu<g ref="char:EOLhyphen"/>ment, might tread upon her servants in their passage to it: but he added, that if there should be any difficulty in fitting the place for them, he was not scrupulous; and requested to be interred in the open Church-yard, on
+<pb n="28" facs="tcp:207275:23"/>the North-side (to crosse the recei<g ref="char:EOLhyphen"/>ved superstition, as he thought, of the constant choice of the South-side) near the new Chappel.</p>
+            <p>The next care he took was to give satisfaction to any that had ought to proffer unto him: And herein he was able to make good <hi>Samuels</hi> chal<g ref="char:EOLhyphen"/>lenge, who asked the people, <hi>whom he had defrauded?</hi>
+               <note place="margin">1 Sam. 12.3.</note> For there was none that had any thing to impute unto him of <hi>injustice</hi> or <hi>wrong.</hi> He was in some trouble that he had not his Accompts in a more ready prepa<g ref="char:EOLhyphen"/>ration for such a surprise; thinking it a kind of imprudence to leave any thing in disorder. But when he had spoken of things most concernable, and added, that if his wife did survive him, he had such marks in his Books and Papers, that would give easie di<g ref="char:EOLhyphen"/>rections to a settlement of his Ac<g ref="char:EOLhyphen"/>compts, though not perfected; he let down these thoughts as <hi>Elijah</hi> did his <hi>Mantle,</hi> when he was ascending into Heaven, and mounted aloft,
+<pb n="29" facs="tcp:207275:23"/>making this good use of the heat and violence of his distemper, even to vent and discharge his pious Medita<g ref="char:EOLhyphen"/>tions with the more <hi>eager intention, audible voice,</hi> and <hi>fervent zeal.</hi> Indeed my Lords respects to him were very noble in this behalf: For he was pleased to advise him by no means to disorder his thoughts about any busi<g ref="char:EOLhyphen"/>nesse of his, but to mind and attend the best expediencies of his own health. His disease did dispose him to that activity which did portend it to be too high for the Physicians correction; but yet God was pleased so to moderate the strength of it, that he continued almost to the last gasp, in the sobriety of his mind; giving not onely a good example, but holy advise to as many as came near him. Somewhat he spake in friendly re<g ref="char:EOLhyphen"/>spects to me, and much to his fellow-servants; he admonished them to fear God in the first place, and then to discharge their duty to their tem<g ref="char:EOLhyphen"/>poral Lord: but first, said he, fear
+<pb n="30" facs="tcp:207275:24"/>God; he knew that to be the <hi>begin<g ref="char:EOLhyphen"/>ning of wisdome,</hi> and he that fails there, must stumble at the very en<g ref="char:EOLhyphen"/>trance upon his duty.</p>
+            <p>When we saw him so <hi>nimble,</hi> and <hi>indefatigable</hi> in his Discourse, we ex<g ref="char:EOLhyphen"/>horted him to forbear and spare his spirits; he replyed presently, I doe not like your advice: <hi>Can a man spend his spirits better than in the praises of God?</hi> He found the pangs of death upon him, and therefore he resolved to spend that little strength and time that he had left, to the best advantage.</p>
+            <p>When I was praying by him and for him, he interrupted me with an earnest request, that if I was about to use any expressions that might in<g ref="char:EOLhyphen"/>treat his farther continuance in this life, I would forbear them; so strong were his desires <hi>to be dissolved, and to be with Christ.</hi>
+            </p>
+            <p>O ye that cleave and cling to the painted vanities of a wicked world, and clasp your embraces about that
+<pb n="31" facs="tcp:207275:24"/>which must needs one day fail you; learn from this holy soul where to fix your hearts and affections, even upon <hi>Christ,</hi> and <hi>God,</hi> and <hi>Heaven:</hi> Did you but see what he saw, sure you would love as he loved, not the world, nor the pleasures of the world (for these alas are neither <hi>solid,</hi> nor <hi>permanent</hi>) but those better things that are <hi>pure</hi> for their nature, and <hi>constant</hi> for their duration, and fully <hi>satisfactory</hi> in their fruition and ob<g ref="char:EOLhyphen"/>tainment. Sure our devout brother saw, with <hi>Moses,</hi>
+               <note place="margin">Heb. 11.27.</note> him by faith that is <hi>invisible,</hi> and therefore his soul was restlesse until he came to the full en<g ref="char:EOLhyphen"/>joyment of him.</p>
+            <p>When we desired him to take any thing for his bodily refreshment, he said, it was to pamper the flesh, wherein he thought he received too much ease; and therefore he desired that God would in that respect lay his hand more heavy upon him. I told him that God best knew how to deal with him, that if he pleased to refresh
+<pb n="32" facs="tcp:207275:25"/>him, he ought to accept of it; that the strongest of us, if God should correct us in his fury, would be con<g ref="char:EOLhyphen"/>sumed and brought to nothing; that our temporal sufferings could not ex<g ref="char:EOLhyphen"/>piate Gods wrath, or satisfie for our sins: At which expression he suddenly closed with me, and cried, <hi>No, no, Christ hath done all that, I trust in his merits.</hi> And indeed it was ve<g ref="char:EOLhyphen"/>ry remarkable, that though he was always confident, yet he was ever humble also, acknowledging himself the chief of sinners, declaring that his boldnesse sprang not from his own <hi>works,</hi> but Christs <hi>Passion.</hi>
+            </p>
+            <p>He was much delighted with a passage in <hi>Anselm</hi>'s Meditations, wherein he aggravates his sin beyond the Apostacy of the Devil himself: He rehearsed it by parts, in Latine, and desired me to English it after him, for the benefit of the standers by. I had almost forgot the particu<g ref="char:EOLhyphen"/>lar expressions, but endeavouring to recover them amongst his Papers, at
+<pb n="33" facs="tcp:207275:25"/>last I found the sentence at large, with many more Collections out of seve<g ref="char:EOLhyphen"/>rall Authours, both Sacred and Mo<g ref="char:EOLhyphen"/>rall, the names of the Authours be<g ref="char:EOLhyphen"/>ing written in the Margin. I will first transcribe it from his own <hi>Note-Book,</hi> and then English it from his Pen, as I did from his Tongue.</p>
+            <p>Diabolus nullâ praecedentis vindi<g ref="char:EOLhyphen"/>ctâ superbiens peccavit; ego visâ ejus poenâ non continens, ad pecca<g ref="char:EOLhyphen"/>tum properavi: Ille in innocentiâ constitutus, ego verò restitutus: Ille perstitit in malitiâ, Deo reprobante; ego verò, Deo revocante: Ille ob<g ref="char:EOLhyphen"/>duratur ad punientem; ego verò ad blandientem: &amp; sic uterque contra Deum: Ille contra non requirentem se; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>go vero contra morientem pro me: ecce, cujus imaginem horrebam, in multis me aspicio horribiliorem. <hi>The Devil growing proud, without the observation of the punishment of ano<g ref="char:EOLhyphen"/>ther, offended: I beholding his doom, refrained not, but hasted unto sin: he created in innocency, I restored to it: he
+<pb n="34" facs="tcp:207275:26"/>persisted in malice, God rejecting him; but I, God recalling me: He is hard<g ref="char:EOLhyphen"/>ned against an avenger, I against an allurer; and so both against God; but he against God not seeking him, I against him, dying for me: Behold, I am in many particulars more abominable than him whose image I abominate.</hi> The committing of this passage so perfe<g ref="char:EOLhyphen"/>ctly to his memory, that he could rehearse it in the midst of his disease, argues that he liked the sense, and was willing to look upon sin under the highest aggravations that could be put upon it.</p>
+            <p>When he was almost spent with speaking, he desired that occasions of devotion should be administred unto him. Whereupon observing him now drawing near to his end, I suggested unto him divers seasonable expressions, which with great alacrity he repeated after me; as, <hi>I desire to be dissolved and to be with Christ: Lord Jesu receive my spirit, &amp;c.</hi> He thought he should have dyed on Sunday, and
+<pb n="35" facs="tcp:207275:26"/>began to please himself with the opportunity of his change, that he was like to goe from a temporal to an eternal Sabbath, conclude one and begin another <hi>rest.</hi> He always, he said, delighted to praise God in Musical Metres, but professed that his best songs here had their imper<g ref="char:EOLhyphen"/>fections; now upon his dissolution, his hymns should be perfect: And as I remember, this he propounded as the chiefest of his felicities (I mean of privative ones) that he should want sin. Thus <hi>calling</hi> and <hi>crying</hi> upon God, confident in Christs me<g ref="char:EOLhyphen"/>rits, and disclaiming his own, confes<g ref="char:EOLhyphen"/>sing himself to be the chief of sin<g ref="char:EOLhyphen"/>ners, and lifting up his hands (for that was his sign, that when he could speak no more, yet his heart was the same) when his voice failed him, he breathed out his pious soul into the hands of his Redeemer. When his voice failed him, his God sustained him, according to that holy and com<g ref="char:EOLhyphen"/>fortable expression of the Psalmist,
+<pb n="36" facs="tcp:207275:27"/>
+               <hi>My flesh and my heart faileth (me,)</hi>
+               <note place="margin">Ps. 73.26.</note>
+               <hi>but God is the strength of my heart, and my portion for ever.</hi> He departed this life about eleven of the clock on Munday the third of <hi>August,</hi> 1657. To his God, after whom he panted so earnestly, he is now gone; with him we leave him, singing those blessed <hi>Hallelujahs</hi> unto which he a<g ref="char:EOLhyphen"/>spired.</p>
+            <p>Shall I say our sorrow is not yet fi<g ref="char:EOLhyphen"/>nished? Truly if we respect our selves, deprived of so pious friends, I may: But if we look upon her condition, we have farther cause of rejoycing. Many things that I spake of him, in their proportion may be said of her also. She was a woman of excellent parts, serviceable to all the occasions of my Lords Family in a high degree, drawing with her hus<g ref="char:EOLhyphen"/>band in the same yoke, as of Wed<g ref="char:EOLhyphen"/>lock, so of businesse. I shall say nothing of her skill in the <hi>French</hi> Tongue, or faculty in English Poe<g ref="char:EOLhyphen"/>try, though she exercised it in Tran<g ref="char:EOLhyphen"/>slating
+<pb n="37" facs="tcp:207275:27"/>the holy Psalms, and other portions of holy Scripture; much lesse of her Family, though very good, for she was descended from the <hi>Glovers</hi> of <hi>Hertfordshire,</hi> and at a distance Niece to that pious <hi>Glover</hi> in Queen <hi>Maries</hi> dayes, who <hi>ennobled</hi> his lineage not by receiving the bloud of others, but by losing his own for the testimony of the truth: I say, of these I shall speak nothing, be<g ref="char:EOLhyphen"/>cause they concern her not, as to her spiritual condition, and therefore I look upon them as lesse pertinent to this occasion. Moreover, I intend not here to write her life, which was better known unto many here pre<g ref="char:EOLhyphen"/>sent than to my self; but some more remarkable passages of her sicknesse, and such behaviour of hers under that sharp visitation, that may tend to the spiritual advantage of those that hear it.</p>
+            <p>When she was newly <hi>assaulted</hi> with her disease, she quickly perceived, that except some remedy were found <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
